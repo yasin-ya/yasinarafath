@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm Yasin araftah
 #### I am a full stack javascript  developer
-<br/>
-<br/>
-<img src="https://camo.githubusercontent.com/e871cf1993b1b45d102c00583be6102d104d0aafef522a715bbf4be32cbc98d6/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f70686f746f2d313632313833393637333730352d3636313761646639653839303f69786c69623d72622d312e322e3126697869643d4d6e77784d6a4133664442384d48787761473930627931775957646c66487838664756756644423866487838266175746f3d666f726d6174266669743d63726f7026773d36303026713d3830" alt="I am a full stack javascript  developer" data-canonical-src="https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=600&amp;q=80" style="width: 100%;margin: 0 auto;display: block;border-radius: 100%;">
-<br/>
+![I am a full stack javascript  developer](https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=600&amp;q=80)
 <br/>
 A passionate javascript full stack developer from 3 years. I lovee to learning and sharing my knowledge with others and solve real-world problems. I love to solve real-world problems. Pleasure to talk new peoples and making friends. Love to enjoy life, travel etc. thank you
 

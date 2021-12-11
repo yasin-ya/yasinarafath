@@ -4,7 +4,7 @@
 <br/>
 
 <p align="left">
-A passionate javascript full stack developer from 3 years. I love to learning and sharing my knowledge with others and solve real-world problems. I love to solve real-world problems. Pleasure to talk new peoples and making friends. Love to enjoy life, travel etc. Thank you.</p>
+A passionate javascript full stack developer with 3 years of experience . I love to learning and sharing my knowledge with others and solve real-world problems. I love to solve real-world problems. Pleasure to talk new peoples and making friends. Love to enjoy life, travel etc. Thank you.</p>
  
 <h3 align="left">Skills: </h3>
 <p align="left">

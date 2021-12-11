@@ -2,9 +2,9 @@
 #### I am a full stack javascript  developer
 ![I am a full stack javascript  developer](https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=600&amp;q=80)
 <br/>
-A passionate javascript full stack developer from 3 years. I lovee to learning and sharing my knowledge with others and solve real-world problems. I love to solve real-world problems. Pleasure to talk new peoples and making friends. Love to enjoy life, travel etc. thank you
 
-
+<p align="left">
+A passionate javascript full stack developer from 3 years. I love to learning and sharing my knowledge with others and solve real-world problems. I love to solve real-world problems. Pleasure to talk new peoples and making friends. Love to enjoy life, travel etc. Thank you.</p>
  
 <h3 align="left">Skills: </h3>
 <p align="left">

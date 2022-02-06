@@ -1,11 +1,14 @@
 ### Hi there 👋, I'm Yasin araftah
 #### I am a full stack javascript  developer
 <br/>
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="449.000000pt" height="567.000000pt" viewBox="0 0 449.000000 567.000000"
+![I am a full stack javascript  developer]<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="300.000000pt" height="400.000000pt" viewBox="0 0 449.000000 567.000000"
  preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
 <g transform="translate(0.000000,567.000000) scale(0.100000,-0.100000)"
-fill="#dbdbdb" stroke="none">
+fill="#000000" stroke="none">
 <path d="M2298 5344 c-4 -3 -51 -10 -105 -14 -54 -5 -125 -18 -158 -30 -33
 -11 -86 -25 -118 -30 -32 -5 -87 -22 -122 -39 -36 -16 -86 -33 -112 -37 -63
 -9 -155 -43 -148 -55 4 -5 -1 -9 -10 -9 -24 0 -71 -27 -157 -89 -60 -43 -79
@@ -125,6 +128,7 @@ fill="#dbdbdb" stroke="none">
 13 -7 8 -17 15 -21 15 -5 0 -59 44 -120 97 -118 105 -167 140 -107 77z"/>
 </g>
 </svg>
+
 <br/>
 
 <p align="left">

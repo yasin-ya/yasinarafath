@@ -66,15 +66,10 @@ Profile Stats</h5>
     
   <p align="center">
         <a href="https://github.com/yasin7a/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7a&langs_count=6&theme=tokyonight_duo"
-          alt="1999AZZAR :: overall Top Langs " /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasin7a&theme=tokyonight_duo"
+          alt="yasin7a /></a>
       </p>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasin7a&theme=tokyonight_duo&hide_border=true"
-          alt=" Top Langs by repo" />
-       
-        </p>
+     
 
     
     

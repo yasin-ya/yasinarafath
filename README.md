@@ -55,7 +55,7 @@
 
 <h5> 
 Streak Stats</h5>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasin7a&theme=tokyonight_duo&hide_border=true" alt="yasin7a" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasin7a&theme=tokyonight_duo" alt="yasin7a" /></p>
    <br> 
    <h5> 
 Profile Stats</h5>

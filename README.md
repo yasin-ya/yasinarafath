@@ -59,11 +59,25 @@ Streak Stats</h5>
    <br> 
    <h5> 
 Profile Stats</h5>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yasin7a&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" alt="yasin7a" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yasin7a&show_icons=true&count_private=true&locale=en&theme=tokyonight_duo" alt="yasin7a" /></p>
 
+<br> 
+ <h5>Languages</h5>
+    
+  <p align="center">
+        <a href="https://github.com/yasin7a/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7a&langs_count=6&theme=tokyonight_duo"
+          alt="1999AZZAR :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasin7a&theme=tokyonight_duo&hide_border=true"
+          alt=" Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasin7a&theme=tokyonight_duo"
+          alt=" Top Langs by commit" />
+          </a>
+        </p>
 
-    
-    
     
     
 

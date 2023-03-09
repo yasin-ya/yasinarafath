@@ -59,11 +59,11 @@ Streak Stats</h5>
    <br> 
    <h5> 
 Profile Stats</h5>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yasin7a&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" alt="yasin7a" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yasin7a&show_icons=true&count_private=true&locale=en&theme=tokyonight_duo&layout=compact" alt="yasin7a" /></p>
 
 <br> 
  <h5>Languages</h5>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasin7a&langs_count=5show_icons=true&locale=en&theme=tokyonight" alt="yasin7a" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasin7a&langs_count=5show_icons=true&locale=en&theme=tokyonight_duo" alt="yasin7a" /></p>
      <br> 
 
 

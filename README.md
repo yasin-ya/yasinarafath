@@ -25,8 +25,8 @@
 
 
 
-### ☎️ you can reach me by:
-<p align="center">
+### ☎️ You can reach me by:
+<p>
       <a href="https://www.linkedin.com/in/yasin-arafath-80ab22207/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="yasin" height="30"/></a>

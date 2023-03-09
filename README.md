@@ -50,7 +50,7 @@
    <br> 
    <br> 
     
-### <img src="https://media0.giphy.com/media/MKzBhzm5g6zXtcvA0N/giphy.gif" width ="30"><b> Github status:</b>
+### <img src="https://media0.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif" width ="30"><b> Github status:</b>
 
 <b> 
 States</b>

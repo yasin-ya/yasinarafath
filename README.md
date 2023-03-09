@@ -4,7 +4,6 @@
 <h2 align="center">An ardent and passionate MERN Stack Developer who derives great joy and fulfillment from the art of coding!
 <br/>
 <br/>
-<br/>
 </h2>
 
 

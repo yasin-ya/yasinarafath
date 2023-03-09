@@ -66,7 +66,7 @@ Profile Stats</h5>
     
   <p align="center">
         <a href="https://github.com/yasin7a/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasin7a&theme=tokyonight_duo"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7a&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="yasin7a /></a>
       </p>
      

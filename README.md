@@ -1,7 +1,9 @@
 <!-- thems: #gh-dark-mode-only, #gh-light-mode-only  -->
 
 <h1 align="center"><b>Hi , I'm Yasin Arafath </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">An ardent and passionate MERN Stack Developer who derives great joy and fulfillment from the art of coding!</h2>
+<h2 align="center">An ardent and passionate MERN Stack Developer who derives great joy and fulfillment from the art of coding!
+<br/>
+</h2>
 
 
 
@@ -35,14 +37,13 @@
       <a href="mailto:arafath7yasin@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="yasin" height="30"/></a>
-    </p>
-  <p align="center">
       <a href="https://wa.me/+8801747732587" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="yasin" height="30"/></a>
-     
-      <br>
+         alt="yasin" height="30"/></a>  
     </p>
+  
+       
+    
     
     
     

@@ -3,21 +3,10 @@
 <h1 align="center"><b>Hi , I'm Yasin Arafath </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">An ardent and passionate MERN Stack Developer who derives great joy and fulfillment from the art of coding!<br/><br/></h2>
 
-<br>
-<br>
-
-
-
-- A passionate Self-taught MERN stack developer
-- Currently exploring new technologies and keeping up with the latest trends to expand my skill set and stay ahead of the curve.
-- I am a proactive individual who thrives on challenges and is always seeking opportunities to take on new, exciting projects.
-- Interesting fact: I am an avid traveler who loves to explore new destinations, cultures and experiences during my free time.
-
-
-
-
-
-
+- 💪 Self learner
+- 📚 Currently exploring new technologies and keeping up with the latest trends to expand my skill set and stay ahead of the curve.
+- 🔥 I am a proactive individual who thrives on challenges and is always seeking opportunities to take on new, exciting projects.
+- 🌝 Fact: I am an avid traveler who loves to explore new destinations, cultures and experiences during my free time.
 
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

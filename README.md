@@ -68,15 +68,9 @@ Profile Stats</h5>
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=tokyonight&layout=compact&hide_border=true"
           alt="yasin7a />
       </p>
-     
-<br> 
+     <br> 
 
-    
-    ## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/yasin7a/yasin7a/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
 
 
 

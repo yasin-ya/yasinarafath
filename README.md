@@ -73,9 +73,7 @@ Profile Stats</h5>
           <a href="https://github.com/1999AZZAR/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasin7a&theme=tokyonight_duo&hide_border=true"
           alt=" Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasin7a&theme=tokyonight_duo"
-          alt=" Top Langs by commit" />
-          </a>
+       
         </p>
 
     

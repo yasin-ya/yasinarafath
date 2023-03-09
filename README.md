@@ -23,7 +23,7 @@
 
 
 
-### <img src="https://media0.giphy.com/media/d9N562y9h8ly6L7EsE/giphy.gif" width ="40"><b> You can reach me by:</b>
+### <img src="https://media0.giphy.com/media/HOHlAVsG7pKR6Q7W83/giphy.gif" width ="30"><b> You can reach me by:</b>
 <p>
       <a href="https://www.linkedin.com/in/yasin-arafath-80ab22207/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"

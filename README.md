@@ -69,9 +69,14 @@ Profile Stats</h5>
           alt="yasin7a />
       </p>
      
+<br> 
 
     
-    
+    ## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/yasin7a/yasin7a/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 
 

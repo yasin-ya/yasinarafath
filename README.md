@@ -59,8 +59,9 @@ Streak Stats</h5>
    <br> 
    <h5> 
 Profile Stats</h5>
-<img alt="yasin7a's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yasin7a&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasin7a&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="yasin7a" height="230px"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yasin7a&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" alt="yasin7a" /></p>
+
+
     
     
     

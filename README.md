@@ -28,18 +28,18 @@
       <br/>
       <a href="https://www.linkedin.com/in/yasin-arafath-80ab22207/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="yasin" height="30"/></a>
       <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="yasin" height="30"/></a>
       <a href="mailto:arafath7yasin@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="yasin" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://wa.me/+01747732587" target="blank"><img align="center"
+      <a href="https://wa.me/+8801747732587" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="yasin" height="30"/></a>
      
       <br>
     </p>

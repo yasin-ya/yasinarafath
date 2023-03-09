@@ -64,6 +64,7 @@ Profile Stats</h5>
 <br> 
  <h5>Languages</h5>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasin7a&langs_count=5show_icons=true&locale=en&theme=tokyonight" alt="yasin7a" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7a&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt=""/>
      <br> 
 
 

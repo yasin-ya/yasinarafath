@@ -45,9 +45,17 @@
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="yasin" height="30"/></a>  
     </p>
-  
-       
     
+    
+   <br> 
+   <br> 
+    
+### <img src="https://media0.giphy.com/media/MKzBhzm5g6zXtcvA0N/giphy.gif" width ="30"><b> Github status:</b>
+
+<b> 
+States</b>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasin7a&theme=tokyonight_duo" alt="yasin7a" /></p>
+
     
     
     

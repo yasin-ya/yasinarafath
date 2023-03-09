@@ -63,11 +63,10 @@ Profile Stats</h5>
 
 <br> 
  <h5>Languages</h5>
-    
+
   <p align="center">
-        <a href="https://github.com/yasin7a/">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="yasin7a /></a>
+          alt="yasin7a />
       </p>
      
 

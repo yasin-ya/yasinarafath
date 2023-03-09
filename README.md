@@ -65,7 +65,7 @@ Profile Stats</h5>
  <h5>Languages</h5>
 
   <p align="center">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=tokyonight&layout=compact&hide_border=true"
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasin7a&theme=tokyonight&layout=compact"
           alt="yasin7a />
       </p>
      <br> 

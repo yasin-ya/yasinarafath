@@ -20,8 +20,8 @@
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) 
-[![Netlify Badge](https://img.shields.io/badge/Netlify-%23000000.svg?&style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![Vercel Badge](https://img.shields.io/badge/Vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![Netlify Badge](https://img.shields.io/badge/Netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white)](#)
+[![Vercel Badge](https://img.shields.io/badge/Vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 
 

@@ -1,9 +1,9 @@
 <!-- thems: #gh-dark-mode-only, #gh-light-mode-only  -->
 
 <h1 align="center"><b>Hi , I'm Yasin Arafath </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">An enthusiastic and passionate Front-End Developer who enjoys coding!</h2>
+<h2 align="center">An ardent and passionate MERN Stack Developer who derives great joy and fulfillment from the art of coding! and always striving to produce exceptional results.</h2>
 
-### 💻 Languages and Tools I code with:
+### 💻 Languages and Tools I execute with:
 [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)

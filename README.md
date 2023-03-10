@@ -92,9 +92,11 @@ Here are some of my portfolio projects:
   An event management web application. I worked on the front-end using React and Next.js, and for the backend, I used AWS Amplify.
 </p>
 
-<p align="center">
-  <a href="https://myeventizer.com/">View Project</a>
-</p>
+<p>
+    <a href="https://myeventizer.com/">
+      <img src="https://img.shields.io/badge/-View Project-blueviolet?style=for-the-badge" alt="View Project" />
+    </a>
+  </p>
 
 <h2 align="center">YasinDev</h2>
 

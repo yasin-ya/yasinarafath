@@ -89,7 +89,7 @@ Here are some of my portfolio projects:
 </p>
 
 
-<p align="center">
+<p align="center" style="font-size: 20px; font-style: italic">
   An event management web application. I worked on the front-end using React and Next.js, and for the backend, I used AWS Amplify.
 </p>
 <p align="center">
@@ -116,7 +116,7 @@ Here are some of my portfolio projects:
 
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 20px; font-style: italic">
   My personal website where you can check out some of my previous work.
 </p>
 
@@ -141,7 +141,7 @@ Here are some of my portfolio projects:
 
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 20px; font-style: italic">
   I'm currently working on this project for my showcase. It’s a multi-author social app.
 </p>
 

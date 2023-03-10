@@ -67,6 +67,31 @@ Profile Stats</h5>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7a&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt=""/>
       </p>
      <br> 
+     <br> 
+     
+# Portfolio Projects
+
+Here are some of my portfolio projects:
+
+## Project 1: MyEventizer
+
+**Description:** An event management web application. I worked on the front-end using React and Next.js, and for the backend, I used AWS Amplify.
+
+**Technologies used:** React, Next.js, AWS Amplify, Tailwind.
+
+**Link:** https://myeventizer.com/
+
+## Project 2: YasinDev
+
+**Description:** My personal website where you can check out some of my previous work.
+
+**Link:** https://yasindev.netlify.app/
+
+## Project 3: Allium
+
+**Description:** I'm currently working on this project for my showcase. It’s a multi-author social app.
+
+**Link:** https://allium.vercel.app/
 
 
 

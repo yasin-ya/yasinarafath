@@ -82,15 +82,12 @@ Here are some of my portfolio projects:
 <h2 align="center">MyEventizer</h2>
 
 <p align="center">
- <div align="center">
-  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</div>
-
+  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-blueviolet?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-AWS%20Amplify-yellow?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Amplify" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-brightgreen?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
+
 
 <p align="center">
   An event management web application. I worked on the front-end using React and Next.js, and for the backend, I used AWS Amplify.

@@ -121,7 +121,7 @@ Here are some of my portfolio projects:
 
 <p align="center">
     <a href="https://yasindev.netlify.app/">
-      <img src="https://img.shields.io/badge/-View Project-blueviolet?style=for-the-badge" alt="View Project" />
+      <img src="https://img.shields.io/badge/-View Project-999999?style=for-the-badge" alt="View Project" />
     </a>
   </p>
 

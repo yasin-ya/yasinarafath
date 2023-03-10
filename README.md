@@ -130,7 +130,7 @@ Here are some of my portfolio projects:
 
 
 <p align="center">
-    <a href="[https://yasindev.netlify.app/](https://allium.vercel.app/)">
+    <a href="https://allium.vercel.app/">
       <img src="https://img.shields.io/badge/-View Project-blueviolet?style=for-the-badge" alt="View Project" />
     </a>
   </p>

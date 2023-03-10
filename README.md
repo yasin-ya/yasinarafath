@@ -69,29 +69,63 @@ Profile Stats</h5>
      <br> 
      <br> 
      
-# Portfolio Projects
+
+
+<h1 align="center">Portfolio Projects</h1>
+
+<div align="center">
 
 Here are some of my portfolio projects:
 
-## Project 1: MyEventizer
+</div>
 
-**Description:** An event management web application. I worked on the front-end using React and Next.js, and for the backend, I used AWS Amplify.
+<h2 align="center">MyEventizer</h2>
 
-**Technologies used:** React, Next.js, AWS Amplify, Tailwind.
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-blue" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-blueviolet" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-AWS%20Amplify-yellow" alt="AWS Amplify" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-brightgreen" alt="Tailwind CSS" />
+</p>
 
-**Link:** https://myeventizer.com/
+<p align="center">
+  An event management web application. I worked on the front-end using React and Next.js, and for the backend, I used AWS Amplify.
+</p>
 
-## Project 2: YasinDev
+<p align="center">
+  <a href="https://myeventizer.com/">View Project</a>
+</p>
 
-**Description:** My personal website where you can check out some of my previous work.
+<h2 align="center">YasinDev</h2>
 
-**Link:** https://yasindev.netlify.app/
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-red" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />
+</p>
 
-## Project 3: Allium
+<p align="center">
+  My personal website where you can check out some of my previous work.
+</p>
 
-**Description:** I'm currently working on this project for my showcase. It’s a multi-author social app.
+<p align="center">
+  <a href="https://yasindev.netlify.app/">View Project</a>
+</p>
 
-**Link:** https://allium.vercel.app/
+<h2 align="center">Allium</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-blue" alt="React" />
+  <img src="https://img.shields.io/badge/-Firebase-yellow" alt="Firebase" />
+</p>
+
+<p align="center">
+  I'm currently working on this project for my showcase. It’s a multi-author social app.
+</p>
+
+<p align="center">
+  <a href="https://allium.vercel.app/">View Project</a>
+</p>
 
 
 

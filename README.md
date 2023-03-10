@@ -94,7 +94,7 @@ Here are some of my portfolio projects:
 </p>
 <p align="center">
     <a href="https://myeventizer.com/">
-      <img src="https://img.shields.io/badge/-View Project-blue?style=for-the-badge" alt="View Project" />
+      <img src="https://img.shields.io/badge/-View Project-f2f2f2?style=for-the-badge" alt="View Project" />
     </a>
   </p>
 
@@ -104,6 +104,9 @@ Here are some of my portfolio projects:
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+       <img src="https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind CSS" />
+
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -120,7 +123,7 @@ Here are some of my portfolio projects:
 
 <p align="center">
     <a href="https://yasindev.netlify.app/">
-      <img src="https://img.shields.io/badge/-View Project-blue?style=for-the-badge" alt="View Project" />
+      <img src="https://img.shields.io/badge/-View Project-f2f2f2?style=for-the-badge" alt="View Project" />
     </a>
   </p>
 
@@ -129,7 +132,6 @@ Here are some of my portfolio projects:
 <p align="center">
  <img src="https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind CSS" />
 
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -146,7 +148,7 @@ Here are some of my portfolio projects:
 
 <p align="center">
     <a href="https://allium.vercel.app/">
-      <img src="https://img.shields.io/badge/-View Project-blue?style=for-the-badge" alt="View Project" />
+      <img src="https://img.shields.io/badge/-View Project-f2f2f2?style=for-the-badge" alt="View Project" />
     </a>
   </p>
 

@@ -94,10 +94,11 @@ Here are some of my portfolio projects:
 </p>
 
 <p align="center">
-    <a href="https://myeventizer.com/">
-      <img src="https://img.shields.io/badge/-View Project-blueviolet?style=for-the-badge" alt="View Project" />
-    </a>
-  </p>
+  <a href="https://myeventizer.com/" style="background-color: transparent; border: 2px solid #8a3ffc; padding: 10px; text-decoration: none; color: #8a3ffc; font-weight: bold;">
+    View Project
+  </a>
+</p>
+
 
 <h2 align="center">YasinDev</h2>
 

@@ -88,10 +88,10 @@ Here are some of my portfolio projects:
   <img src="https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind CSS" />
 </p>
 
+### <p align="center" ><em>  An event management web application. I worked on the front-end using React and Next.js, and for the backend, I used AWS Amplify.
+</em></p>
 
-<p align="center" style="font-size: 20px; font-style: italic">
-  An event management web application. I worked on the front-end using React and Next.js, and for the backend, I used AWS Amplify.
-</p>
+
 <p align="center">
     <a href="https://myeventizer.com/">
       <img src="https://img.shields.io/badge/-View Project-f2f2f2?style=for-the-badge" alt="View Project" />
@@ -140,10 +140,10 @@ Here are some of my portfolio projects:
 
 </p>
 
-<p align="center" style="font-size: 20px; font-style: italic">
-  I'm currently working on this project for my showcase. It’s a multi-author social app.
-</p>
 
+### <p align="center" ><em>   I'm currently working on this project for my showcase. It’s a multi-author social app.
+
+</em></p>
 
 <p align="center">
     <a href="https://allium.vercel.app/">

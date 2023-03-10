@@ -54,13 +54,18 @@
    <br> 
 
 ### <b>Streak Stats</b>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasin7a&theme=tokyonight_duo" alt="yasin7a" /></p>
    <br> 
- ###  <b>Profile Stats</b>
+   
+### <b>Profile Stats</b>
+ 
+ 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yasin7a&show_icons=true&count_private=true&locale=en&theme=gruvbox&layout=compact&hide_border=true" alt="yasin7a" /></p>
 
 <br> 
 ### <b>Languages</b>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7a&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt=""/>
       </p>

@@ -123,7 +123,7 @@ Here are some of my portfolio projects:
 
 <p align="center">
     <a href="https://yasindev.netlify.app/">
-      <img src="https://img.shields.io/badge/-View Project-f2f2f2?style=for-the-badge" alt="View Project" />
+      <img src="https://img.shields.io/badge/-View Projects-f2f2f2?style=for-the-badge" alt="View Project" />
     </a>
   </p>
 

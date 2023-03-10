@@ -92,7 +92,7 @@ Here are some of my portfolio projects:
   An event management web application. I worked on the front-end using React and Next.js, and for the backend, I used AWS Amplify.
 </p>
 
-<p>
+<p align="center">
     <a href="https://myeventizer.com/">
       <img src="https://img.shields.io/badge/-View Project-blueviolet?style=for-the-badge" alt="View Project" />
     </a>
@@ -110,9 +110,12 @@ Here are some of my portfolio projects:
   My personal website where you can check out some of my previous work.
 </p>
 
+
 <p align="center">
-  <a href="https://yasindev.netlify.app/">View Project</a>
-</p>
+    <a href="https://yasindev.netlify.app/">
+      <img src="https://img.shields.io/badge/-View Project-blueviolet?style=for-the-badge" alt="View Project" />
+    </a>
+  </p>
 
 <h2 align="center">Allium</h2>
 
@@ -125,9 +128,12 @@ Here are some of my portfolio projects:
   I'm currently working on this project for my showcase. It’s a multi-author social app.
 </p>
 
+
 <p align="center">
-  <a href="https://allium.vercel.app/">View Project</a>
-</p>
+    <a href="[https://yasindev.netlify.app/](https://allium.vercel.app/)">
+      <img src="https://img.shields.io/badge/-View Project-blueviolet?style=for-the-badge" alt="View Project" />
+    </a>
+  </p>
 
 
 

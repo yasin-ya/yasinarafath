@@ -101,9 +101,15 @@ Here are some of my portfolio projects:
 <h2 align="center">YasinDev</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-red" alt="HTML" />
-  <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
 </p>
 
 <p align="center">
@@ -120,8 +126,13 @@ Here are some of my portfolio projects:
 <h2 align="center">Allium</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-blue" alt="React" />
-  <img src="https://img.shields.io/badge/-Firebase-yellow" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
 </p>
 
 <p align="center">

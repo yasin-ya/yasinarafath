@@ -71,7 +71,7 @@ Profile Stats</h5>
      
 
 
-<h1 align="center">Projects</h1>
+### <img src="https://media0.giphy.com/media/kAxabX31XCLi9ROV34/giphy.gif" width ="30"><b> Projects:</b>
 
 <div align="center">
 

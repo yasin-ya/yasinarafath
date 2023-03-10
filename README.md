@@ -71,7 +71,7 @@ Profile Stats</h5>
      
 
 
-<h1 align="center">Portfolio Projects</h1>
+<h1 align="center">Projects</h1>
 
 <div align="center">
 

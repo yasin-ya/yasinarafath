@@ -116,9 +116,8 @@ Here are some of my portfolio projects:
 
 </p>
 
-<p align="center" style="font-size: 20px; font-style: italic">
-  My personal website where you can check out some of my previous work.
-</p>
+<p align="center" style="font-size:24px"><em>My personal website where you can check out some of my previous work.</em></p>
+
 
 
 <p align="center">

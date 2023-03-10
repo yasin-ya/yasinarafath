@@ -85,19 +85,18 @@ Here are some of my portfolio projects:
   <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-blueviolet?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-AWS%20Amplify-yellow?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Amplify" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-brightgreen?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind CSS" />
 </p>
 
 
 <p align="center">
   An event management web application. I worked on the front-end using React and Next.js, and for the backend, I used AWS Amplify.
 </p>
-
 <p align="center">
-  <a href="https://myeventizer.com/" style="background-color: transparent; border: 2px solid #8a3ffc; padding: 10px; text-decoration: none; color: #8a3ffc; font-weight: bold;">
-    View Project
-  </a>
-</p>
+    <a href="https://myeventizer.com/">
+      <img src="https://img.shields.io/badge/-View Project-blue?style=for-the-badge" alt="View Project" />
+    </a>
+  </p>
 
 
 <h2 align="center">YasinDev</h2>
@@ -121,13 +120,16 @@ Here are some of my portfolio projects:
 
 <p align="center">
     <a href="https://yasindev.netlify.app/">
-      <img src="https://img.shields.io/badge/-View Project-999999?style=for-the-badge" alt="View Project" />
+      <img src="https://img.shields.io/badge/-View Project-blue?style=for-the-badge" alt="View Project" />
     </a>
   </p>
 
 <h2 align="center">Allium</h2>
 
 <p align="center">
+ <img src="https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind CSS" />
+
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -144,7 +146,7 @@ Here are some of my portfolio projects:
 
 <p align="center">
     <a href="https://allium.vercel.app/">
-      <img src="https://img.shields.io/badge/-View Project-blueviolet?style=for-the-badge" alt="View Project" />
+      <img src="https://img.shields.io/badge/-View Project-blue?style=for-the-badge" alt="View Project" />
     </a>
   </p>
 

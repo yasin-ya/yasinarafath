@@ -127,30 +127,7 @@ Here are some of my portfolio projects:
     </a>
   </p>
 
-<h2 align="center">Allium</h2>
 
-<p align="center">
- <img src="https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind CSS" />
-
-  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-</p>
-
-
-### <p align="center" ><em>   I'm currently working on this project for my showcase. It’s a multi-author social app.
-
-</em></p>
-
-<p align="center">
-    <a href="https://allium.vercel.app/">
-      <img src="https://img.shields.io/badge/-View Project-f2f2f2?style=for-the-badge" alt="View Project" />
-    </a>
-  </p>
 
 
 

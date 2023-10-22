@@ -1,8 +1,10 @@
 <!-- thems: #gh-dark-mode-only, #gh-light-mode-only  -->
 
-<h1 align="center" >Hi , I'm Yasin Arafath </h1>
+<h1 align="center"> Hi , I'm Yasin Arafath </h1>
 
-
+<h2 align="center"> An ardent and passionate MERN Stack Developer who derives great joy and fulfillment from the art of coding!</h2>
+<br>
+<br>
 - 💪 Self learner
 - 📚 Currently exploring new technologies and keeping up with the latest trends to expand my skill set and stay ahead of the curve.
 - 🔥 I am a proactive individual who thrives on challenges and is always seeking opportunities to take on new, exciting projects.

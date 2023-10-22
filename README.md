@@ -8,7 +8,7 @@
 - 🔥 I am a proactive individual who thrives on challenges and is always seeking opportunities to take on new, exciting projects.
 - 🌝 Fact: I am an avid traveler who loves to explore new destinations.
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> Languages and Tools I execute with:</b>
+### <b> Languages and Tools I execute with:</b>
 [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
@@ -29,7 +29,7 @@
 
 
 
-### <img src="https://media0.giphy.com/media/MKzBhzm5g6zXtcvA0N/giphy.gif" width ="30"><b> You can reach me by:</b>
+### <b> You can reach me by:</b>
 <p>
       <a href="https://www.linkedin.com/in/yasin-arafath-80ab22207/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -46,7 +46,7 @@
    <br> 
    <br> 
     
-### <img src="https://media0.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif" width ="30"><b> Github status:</b>
+### <b> Github status:</b>
    <br> 
 
 ### <b>Streak Stats</b>

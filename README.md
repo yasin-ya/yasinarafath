@@ -1,7 +1,7 @@
 <!-- thems: #gh-dark-mode-only, #gh-light-mode-only  -->
 
-<h1 align="center" color="#fff"><Hi , I'm Yasin Arafath </h1>
-<h6 align="center" color="#fff">An ardent and passionate MERN Stack Developer who derives great joy and fulfillment from the art of coding!<br/><br/></h2>
+<h1 align="center" ><Hi , I'm Yasin Arafath </h1>
+<h6 align="center" >An ardent and passionate MERN Stack Developer who derives great joy and fulfillment from the art of coding!<br/><br/></h6>
 
 - 💪 Self learner
 - 📚 Currently exploring new technologies and keeping up with the latest trends to expand my skill set and stay ahead of the curve.

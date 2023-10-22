@@ -49,7 +49,7 @@
    <br> 
    <br> 
     
-### <b> Github status:</b>
+### <h2 align="center"> Github status:</h2>
    <br> 
 
 ### <b>Streak Stats</b>

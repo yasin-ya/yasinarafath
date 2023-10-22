@@ -3,10 +3,12 @@
 <h1 align="center" ><Hi , I'm Yasin Arafath </h1>
 <h6 align="center" >An ardent and passionate MERN Stack Developer who derives great joy and fulfillment from the art of coding!<br/><br/></h6>
 
+<p>
 - 💪 Self learner
 - 📚 Currently exploring new technologies and keeping up with the latest trends to expand my skill set and stay ahead of the curve.
 - 🔥 I am a proactive individual who thrives on challenges and is always seeking opportunities to take on new, exciting projects.
 - 🌝 Fact: I am an avid traveler who loves to explore new destinations.
+</p>
 
 ### <b> Languages and Tools I execute with:</b>
 [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)

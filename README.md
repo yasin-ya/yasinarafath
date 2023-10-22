@@ -1,6 +1,6 @@
 <!-- thems: #gh-dark-mode-only, #gh-light-mode-only  -->
 
-<h1 align="center" color="#fff"><b>Hi , I'm Yasin Arafath </b></h1>
+<h1 align="center" color="#fff"><Hi , I'm Yasin Arafath </h1>
 <h2 align="center" color="#fff">An ardent and passionate MERN Stack Developer who derives great joy and fulfillment from the art of coding!<br/><br/></h2>
 
 - 💪 Self learner

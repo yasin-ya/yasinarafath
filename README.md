@@ -1,5 +1,5 @@
 
-<h1 align="center" > Hi , I'm Yasin Arafath </h1>
+<h2 align="center" > Hi , I'm Yasin Arafath </h2>
 
 <h2 align="center"> An ardent and passionate MERN Stack Developer who derives great joy and fulfillment from the art of coding!<br>
 </h2>

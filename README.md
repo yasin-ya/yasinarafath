@@ -49,8 +49,8 @@
    <br> 
    <br> 
     
-### <h2 align="center"> Github status:</h2>
-   <br> 
+### <h2 align="center"> Github status: <br><br> </h2>
+   
 
 ### <b>Streak Stats</b>
 
